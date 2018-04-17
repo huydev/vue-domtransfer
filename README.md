@@ -5,7 +5,7 @@
 ## 安装
 
 ``` js
-var VueDomtransfer = require('path/vue-domtransfer')
+var VueDomtransfer = require('path/index.js')
 Vue.use(VueDomtransfer)
 ```
 
